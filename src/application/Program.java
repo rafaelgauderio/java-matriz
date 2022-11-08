@@ -13,7 +13,6 @@ public class Program {
 				+ "\tTem as mesmas vantagens e desvantegens de vetor.\n"
 				+ "Vantagens: acesso imediato aos elementos pela sua posição.\n"
 				+ "Desvantagens: tamanho fixo e dificuldades para realizar insert e delete)");
-
 	}
 
 }
